@@ -1,0 +1,12 @@
+{
+  "name": "ts-union-exhaustive-assessment",
+  "version": "1.0.0",
+  "description": "Assessment: TypeScript discriminated union exhaustiveness with strictNullChecks",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
